@@ -1,5 +1,5 @@
 # ASA_Datafest
-Repository of my participation at the 2021ASA Datafest at Virginia Tech
+Repository of my participation at the 2021 ASA Datafest at Virginia Tech
 
 Project was done in Deepnote so that we could work collaboratively in real time.
 
